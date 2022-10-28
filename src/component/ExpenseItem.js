@@ -17,3 +17,5 @@ function ExpenseItem() {
 }
 
 export default ExpenseItem;
+
+// Passing Data via Props
