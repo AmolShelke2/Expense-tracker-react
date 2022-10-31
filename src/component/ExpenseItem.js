@@ -21,3 +21,5 @@ function ExpenseItem(props) {
 }
 
 export default ExpenseItem;
+
+// Splitting Component in multiple component
