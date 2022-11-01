@@ -35,5 +35,3 @@ function App() {
 }
 
 export default App;
-
-// The Concept of Composition and Children props
