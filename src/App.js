@@ -41,5 +41,3 @@ function App() {
 }
 
 export default App;
-
-// A Closer look at jsx
