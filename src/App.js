@@ -41,5 +41,3 @@ const App = () => {
 };
 
 export default App;
-
-// Listening to Events and working with Event Handlers
