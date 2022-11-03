@@ -26,3 +26,5 @@ const ExpenseItem = props => {
 };
 
 export default ExpenseItem;
+
+// A closer look at useState hook
