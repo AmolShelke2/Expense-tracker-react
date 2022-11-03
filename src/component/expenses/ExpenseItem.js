@@ -26,5 +26,3 @@ const ExpenseItem = props => {
 };
 
 export default ExpenseItem;
-
-// How component functions are executed
