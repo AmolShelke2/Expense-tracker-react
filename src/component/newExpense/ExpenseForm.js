@@ -21,7 +21,6 @@ const ExpenseForm = () => {
 
   return (
     <form>
-      {console.log(enteredDate)}
       <div className="new-expense__controls">
         <div className="new-expense__control">
           <label>Title</label>
