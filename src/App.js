@@ -48,5 +48,3 @@ const App = () => {
 };
 
 export default App;
-
-// Lifting The state Up
