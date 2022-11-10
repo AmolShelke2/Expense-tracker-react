@@ -4,8 +4,6 @@ import ExpenseItem from './ExpenseItem';
 import './ExpenseList.css';
 
 const ExpenseList = props => {
-  console.log(props);
-
   if (props.items.length === 0) {
     return <h2 className="expenses-list__fallback">No Expenses found</h2>;
   }
